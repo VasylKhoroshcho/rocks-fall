@@ -1,0 +1,827 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cons",
+				"console.log"
+			],
+			[
+				"con",
+				"console.log"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"co",
+				"console.log();"
+			],
+			[
+				"pla",
+				"playing"
+			],
+			[
+				"play",
+				"playing"
+			],
+			[
+				"next",
+				"nextSong"
+			],
+			[
+				"pl",
+				"playSong"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"col",
+				"col-lg-6"
+			],
+			[
+				"it",
+				"items"
+			],
+			[
+				"get",
+				"getItemsfromEbay"
+			],
+			[
+				"pro",
+				"progress"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"A",
+				"AlreadyInCurt"
+			],
+			[
+				"ite",
+				"itemFactory"
+			],
+			[
+				"ro",
+				"routeParams"
+			],
+			[
+				"add",
+				"addItem"
+			],
+			[
+				"ho",
+				"homeControler"
+			],
+			[
+				"ge",
+				"getItems"
+			],
+			[
+				"Fi",
+				"FizzBuzz"
+			],
+			[
+				"fi",
+				"FizzBuzz"
+			],
+			[
+				"las",
+				"lastVisitDate"
+			],
+			[
+				"bag",
+				"background"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"te",
+				"template"
+			],
+			[
+				"ni",
+				"nightDiscount"
+			],
+			[
+				"us",
+				"userArr"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"cat",
+				"category"
+			],
+			[
+				"copy",
+				"copy-prod"
+			],
+			[
+				"bro",
+				"browserSync"
+			],
+			[
+				"fo",
+				"format"
+			],
+			[
+				"f",
+				"format"
+			],
+			[
+				"wea",
+				"weatherObj"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"User",
+				"UserArray"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"mone",
+				"money"
+			],
+			[
+				"new",
+				"new_Casino"
+			],
+			[
+				"s",
+				"space-around"
+			],
+			[
+				"M",
+				"MoneyAmount"
+			],
+			[
+				"Slo",
+				"Slots"
+			],
+			[
+				"ne",
+				"new_Casino"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"e",
+				"each"
+			],
+			[
+				"Slot",
+				"SlotMachine"
+			],
+			[
+				"a",
+				"amount"
+			],
+			[
+				"mon",
+				"money"
+			],
+			[
+				"slo",
+				"Slots"
+			],
+			[
+				"Max",
+				"MaxMoney"
+			],
+			[
+				"Ma",
+				"MaxMachine"
+			],
+			[
+				"Sl",
+				"Slots"
+			],
+			[
+				"prin",
+				"printSound"
+			],
+			[
+				"w",
+				"weight"
+			],
+			[
+				"we",
+				"weigh_butt"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"sec",
+				"Section-1"
+			],
+			[
+				"item",
+				"itemArray"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"c",
+				"cover"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"top",
+				"top-5"
+			],
+			[
+				"bl",
+				"blockArr"
+			],
+			[
+				"_",
+				"_redBlockposition"
+			],
+			[
+				"_re",
+				"_redBLock"
+			],
+			[
+				"sor",
+				"sortBlock"
+			],
+			[
+				"arr",
+				"arrpos"
+			],
+			[
+				"ch",
+				"checkTankPosition"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"empl",
+				"employeeSalary"
+			],
+			[
+				"em",
+				"employeeForm"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"g",
+				"getElementsByClassName"
+			],
+			[
+				"va",
+				"validatorArray"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"valida",
+				"validatorArray"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"o",
+				"option3"
+			],
+			[
+				"value",
+				"value3"
+			],
+			[
+				"inpu",
+				"input"
+			],
+			[
+				"val",
+				"value1"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"input",
+				"inputArray"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"footer",
+				"footer_right"
+			],
+			[
+				"al",
+				"alt"
+			],
+			[
+				"pop",
+				"popular_episodes"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"sp",
+				"space-between"
+			],
+			[
+				"sub",
+				"Subscribe"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"i",
+				"id\tAttr"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"t",
+				"tbody\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "rocks-fall/ProjectSettings/AudioManager.asset",
+			"settings":
+			{
+				"buffer_size": 357,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 249.0,
+		"last_filter": "Package Control: in",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"soda ",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 496.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/hitman/Unity/rocks-fall"
+	],
+	"file_history":
+	[
+		"/Users/hitman/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/hitman/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/asdf.js",
+		"/Users/hitman/Cursor/ProjectX/front-end-test/app/controllers/Controller.js",
+		"/Users/hitman/Cursor/HTML-audio-player/scripts/main.js",
+		"/Users/hitman/Cursor/test-teamvoy/main.js",
+		"/Users/hitman/Cursor/ProjectX/votest-api/package.json",
+		"/Users/hitman/Cursor/ProjectX/volodyaBack/package.json",
+		"/Users/hitman/Unity/TankGame/TankGame/sameple-io/server.js",
+		"/Users/hitman/Cursor/test teamvoy/teamvoy-test/buffer-loader.js",
+		"/Users/hitman/Cursor/test teamvoy/teamvoy-test/styles.css",
+		"/Users/hitman/Cursor/test teamvoy/teamvoy-test/main.js",
+		"/Users/hitman/Cursor/angularApp/app/controllers/moreInfoController.js",
+		"/Users/hitman/Unity/sameple-io/server.js",
+		"/Users/hitman/Downloads/ProjectMultiplayerGame/NodeServer/sameple-io/server.js",
+		"/Users/hitman/Unity/socketIO_test/realtime-multiplayer-in-html5/index.css",
+		"/Users/hitman/Unity/socketIO_test/realtime-multiplayer-in-html5/game.server.js",
+		"/Users/hitman/Unity/socketIO_test/realtime-multiplayer-in-html5/game.core.js",
+		"/Users/hitman/Unity/socketIO_test/realtime-multiplayer-in-html5/client.js",
+		"/Users/hitman/Unity/socketIO_test/realtime-multiplayer-in-html5/app.js",
+		"/Users/hitman/Unity/socketIO_test/realtime-multiplayer-in-html5/package.json",
+		"/Users/hitman/Unity/Andoroid_SDK/lib/android.el",
+		"/Users/hitman/Cursor/angularApp/app/partials/home.html",
+		"/Users/hitman/Cursor/angularApp/app/controllers/homeController.js",
+		"/Users/hitman/Cursor/angularApp/app/controllers/ebayLoadController.js",
+		"/Users/hitman/Cursor/angularApp/app/partials/progress.html",
+		"/Users/hitman/Cursor/angularApp/app/factory/mainFactory.js",
+		"/Users/hitman/Cursor/angularApp/app/controllers/ordersController.js",
+		"/Users/hitman/Cursor/angularApp/app/partials/myOrders.html",
+		"/Users/hitman/Cursor/angularApp/index.html",
+		"/Users/hitman/Cursor/angularApp/app/controllers/navigationController.js",
+		"/Users/hitman/Cursor/angularApp/app/controllers/progress.html",
+		"/Users/hitman/Cursor/angularApp/app/app.js",
+		"/Users/hitman/Cursor/angularApp/scripts/ebayApi.js",
+		"/Users/hitman/Cursor/ajax/AJAX_reddit/index.html",
+		"/Users/hitman/Cursor/ES6/class.js",
+		"/Users/hitman/Cursor/ES6/class_extend.js",
+		"/Users/hitman/Cursor/ES6/modules_with_name_math.js",
+		"/Users/hitman/Cursor/ES6/modules_with_name.js",
+		"/Users/hitman/Cursor/ES6/program.js",
+		"/Users/hitman/Cursor/Decorator_pattern/README.md",
+		"/Users/hitman/Cursor/oop/OOP_casino/script/main.js",
+		"/Users/hitman/Cursor/OLD/DOM_BOM_HMW/script/os_message.js",
+		"/Users/hitman/Cursor/JS_tools/prod/js/app.js",
+		"/Users/hitman/Cursor/JS_tools/gulpfile.js",
+		"/Users/hitman/Cursor/JS_tools/package.json",
+		"/Users/hitman/Cursor/test/yaruna/js-tools/project/less/styles.less",
+		"/Users/hitman/Cursor/test/yaruna/js-tools/package.json",
+		"/Users/hitman/Cursor/test/yaruna/js-tools/gulpfile.js",
+		"/Users/hitman/Cursor/test/yaruna/js-tools/README.md",
+		"/Users/hitman/Cursor/test/markhevka/js__tools_1/gulpfile.js",
+		"/Users/hitman/Cursor/JS_tools/README.md",
+		"/Users/hitman/Cursor/test/JS_tools/gulpfile.js",
+		"/Users/hitman/Cursor/test/JS_tools/README.md",
+		"/Users/hitman/Cursor/test/yaruna/js-tools/project/js/app.js",
+		"/Users/hitman/Cursor/test/romar/gulp-homework/gulpfile.js",
+		"/Users/hitman/Cursor/test/romar/gulp-homework/README.md",
+		"/Users/hitman/Cursor/test/romar/gulp-homework/app/index.html",
+		"/Users/hitman/Cursor/test/JS_tools/package.json",
+		"/Users/hitman/Cursor/js_tools/prod/scripts/main.js",
+		"/Users/hitman/Library/Application Support/Sublime Text 3/Packages/User/Terminal (OSX).sublime-settings",
+		"/Users/hitman/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/hitman/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/hitman/Cursor/js_tools/package.json",
+		"/Users/hitman/Cursor/ajax/AJAX_reddit/scripts/main.js",
+		"/Users/hitman/Cursor/ajax/scripts/getPos.js",
+		"/Users/hitman/Cursor/try.js",
+		"/Users/hitman/Documents/wordgenerator/includes/erudyt_ua.txt",
+		"/Users/hitman/Downloads/k.txt",
+		"/Users/hitman/Cursor/OLD/DOM_BOM_HMW/list.html",
+		"/Users/hitman/hnb.lviv.ua/index.php",
+		"/Users/hitman/hnb.lviv.ua/index2.php",
+		"/Users/hitman/Cursor/php-tast/index.html",
+		"/Users/hitman/Documents/wordgenerator/includes/script",
+		"/Users/hitman/Cursor/oop/task-1/index.html",
+		"/Users/hitman/Cursor/oop/OOP_market/css/style.css",
+		"/Users/hitman/Cursor/oop/task-1/css/style.css",
+		"/Users/hitman/Cursor/oop/index.html",
+		"/Users/hitman/Cursor/oop/script/main.js",
+		"/Users/hitman/Cursor/oop/css/style.css",
+		"/Users/hitman/Cursor/DOM&BOM/script/localization.js",
+		"/Users/hitman/Cursor/DOM&BOM/css/localization.css",
+		"/Users/hitman/Cursor/DOM&BOM/localization.html",
+		"/Users/hitman/Cursor/DOM&BOM/css/style.css",
+		"/Users/hitman/Cursor/DOM&BOM/script/list.js",
+		"/Users/hitman/Cursor/DOM&BOM/navigation.html",
+		"/Users/hitman/Cursor/DOM&BOM/script/navigation.js",
+		"/Users/hitman/Cursor/DOM&BOM/css/navigation.css",
+		"/Users/hitman/Cursor/DOM&BOM/index.html",
+		"/Users/hitman/Cursor/DOM&BOM/validation.html",
+		"/Users/hitman/Cursor/DOM&BOM/script/validation.js",
+		"/Users/hitman/Cursor/DOM&BOM/script/script.js",
+		"/Users/hitman/Cursor/DOM&BOM/script/parallax.js",
+		"/Users/hitman/Cursor/DOM&BOM/css/parallax.css",
+		"/Users/hitman/Cursor/DOM&BOM/parallax.html",
+		"/Users/hitman/Cursor/DOM&BOM/css/os_message.css",
+		"/Users/hitman/Cursor/DOM&BOM/script/os_message.js",
+		"/Users/hitman/Cursor/DOM&BOM/os_message.html",
+		"/Users/hitman/Cursor/Html-css-group/css/Vasyl.css",
+		"/Users/hitman/Cursor/Html-css-group/index.html",
+		"/Users/hitman/Cursor/JS_second_lection/index.html",
+		"/Users/hitman/Cursor/JS_Essentials_homework/sctipt/exchange.js",
+		"/Users/hitman/Cursor/JS_Essentials_homework/exchange.html",
+		"/Users/hitman/Cursor/JS_Essentials_homework/index.html",
+		"/Users/hitman/Cursor/Hmw_HTML_CSS/css/popular_episodes.styl",
+		"/Users/hitman/Cursor/Hmw_HTML_CSS/css/latest_episodes.styl",
+		"/Users/hitman/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/hitman/Library/Application Support/Sublime Text 3/Packages/User/Stylus.sublime-settings",
+		"/Users/hitman/Cursor/Hmw_HTML_CSS/index.html",
+		"/Users/hitman/Cursor/site_create/Rik/index.html",
+		"/Users/hitman/навчання/site_create/Rik/index.html",
+		"/Users/hitman/навчання/CSS/css-homework-part2/index.html",
+		"/Users/hitman/навчання/index.html",
+		"/Users/hitman/навчання/CSS/css-homework-part2/README.md",
+		"/Users/hitman/навчання/CSS/css-homework-part2/css/style.css",
+		"/Users/hitman/навчання/CSS/css-homework-part1/style.css",
+		"/Users/hitman/навчання/CSS/css-homework-part1/index.html",
+		"/Users/hitman/навчання/sublime/sftp-config.json",
+		"/Users/hitman/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/Suspilstvo",
+		"/Users/hitman/Library/Application Support/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+		"/Users/hitman/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/hitman/Library/Application Support/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/Users/hitman/навчання/Git/HTML-Homework/Lection.html",
+		"/Users/hitman/навчання/Git/HTML-Homework/index.html",
+		"/Users/hitman/Downloads/Archive/style.css",
+		"/Users/hitman/index.html",
+		"/Users/hitman/навчання/Git/hello_world_git/README.md",
+		"/Users/hitman/навчання/gitTest/testing-git-workflow/about-us.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "rocks-fall/ProjectSettings/AudioManager.asset",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 357,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 114.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 114.0
+	},
+	"output.sftp":
+	{
+		"height": 89.0
+	},
+	"pinned_build_system": "",
+	"project": "rocks-fall.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"__construct"
+			]
+		],
+		"width": 378.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
